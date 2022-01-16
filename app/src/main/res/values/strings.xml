@@ -1,0 +1,210 @@
+<resources>
+    <string name="app_name">Crypto watcher</string>
+
+        <string name="pg">
+            <br><b>1 ) Are crypto-currencies legal in India?\n</b></br>
+
+            <br>-> In India, cryptocurrencies are not illegal, but they are unregulated.
+                This means you can purchase, trade, and hold Bitcoin like an investment,
+                but there is no regulating agency to oversee or safeguard it.\n</br>
+
+            <br>\n</br>
+
+           <br><b>2 ) Where to buy crypto-currencies? \n</b></br>
+
+            <br>-> There are numerous crypto exchange services in the country that have
+            made it incredibly simple to purchase and sell cryptocurrencies such as
+            Bitcoin and Ethereum.</br>
+
+            <br>WazirX, \n</br>
+            <br>CoinDCX, \n</br>
+            <br>Binance, \n</br>
+            <br>CoinDCX GO \n</br>
+            <br>are some of the most popular Indian platforms. \n</br>
+
+           <br> -> International trading platforms such as Coinbase and Binance allow
+            investors to purchase Bitcoin, Ethereum, and other cryptocurrencies. \n</br>
+
+            <br>\n</br>
+
+            <br><b>3 ) Which are the popular crypto-currencies? \n</b></br>
+
+            <br>-> Bitcoin (BTC) \n</br>
+            <br>-> Ethereum (ETH) \n</br>
+            <br>-> Litecoin (LTC) \n</br>
+            <br>-> Chainlink (LINK) \n</br>
+            <br>-> Ripple (XRP) \n</br>
+            <br>-> Cardano (ADA) \n</br>
+            <br>-> Vechain (VET) \n</br>
+            <br>-> Polkadot (DOT) \n</br>
+            <br>-> Binance coin (BNB) \n</br>
+            <br>-> Stellar (XLM) \n</br>
+            <br>-> Polygon (MATIC) \n</br>
+            <br>-> TRON (TRX) \n</br>
+            <br>-> Solona (SOL) \n</br>
+            <br>-> BitTorrent (BTT) \n</br>
+            <br>-> Dogecoin (DOGE) \n</br>
+            <br>-> Shiba inu (SHIB) \n</br>
+
+            <br>\n</br>
+
+
+            <br><b>4 ) How much should I invest in crypto currencies? \n</b></br>
+
+            <br>-> There is no minimum number for this. It is better know that we need to
+                invest only how much we are capable of losing. \n</br>
+            <br>-> It\'s not good to invest all your life savings into one crypto currency. \n</br>
+            <br>-> When you are investing huge amount of money, do not invest everything into
+                just one crypto-currency, try investing into different ones. \n</br>
+
+            <br>\n</br>
+
+            <br><b>5 ) 50 Crypto-currency investment mistakes \n</b></br>
+
+            <br>1. Not knowing the basics \n
+                2. Not understanding the technology \n
+                3. Ignoring fees \n
+                4. Overtrading \n
+                5. Not understanding tax implications \n
+                6. Investing your life savings \n
+                7. Thinking crypto-currencies like shares/stocks  \n
+                8. Chasing cheap coins \n
+                9. Thinking you are always right \n
+                10. Making sloppy mistakes \n
+                11. Not diversifying your portfolio  \n
+                12. Over diversifying your portfolio  \n
+                13. Not doing your own research \n
+                14. Your research is poor \n
+                15. Not keeping upto date with investments \n
+                16. Not having a plan to stick with \n
+                17. You do not take profits \n
+                18. You do not cut your profits \n
+                19. Buying high and selling low \n
+                20. You do not HODL hard enough \n
+                21. Being a math noob xD \n
+                22. Not using 2FA \n
+                23. Do not leave all your coins in exchange \n
+                24. Not owning a hardware wallet \n
+                25. Not knowing best security practices \n
+                26. Not taking backups of sensitive information \n
+                27. Falling for scams and give always \n
+                28. Not finding a community for learning  \n
+                29. Following shills and crowds \n
+                30. Entering positions where you can not exit \n
+                31. Falling for fake FUDs \n
+                32. Panic selling \n
+                33. Falling for media propaganda \n
+                34. Getting emotionally attached to coins \n
+                35. You lack patience \n
+                36. Not staying clear headed \n
+                37. Not understanding market dynamics \n
+                38. Ignoring airdrops \n
+                39. Not preparing yourself for forks \n
+                40. Not using the best tools available \n
+                41. Holding USDT/Tether or any stable coins and expecting profits \n
+                42. You do not buy the rumours \n
+                43. You buy the news \n
+                44. Not knowing how to read trading charts \n
+                45. Not preparing yourself for bull market \n
+                46. Not preparing yourself for bear market \n
+                47. Not listening to market sentiments \n
+                48. Not earning interest from your crypto \n
+                49. Investing only in crypto \n
+                50. Not knowing all the above things     \n</br>
+
+               <br>\n</br>
+
+                <br><b>6 ) Commonly used abbreviations  \n</b></br>
+            <br>FUD - Fear, Uncertainty and Doubt \n
+                FOMO - Fear of Missing Out \n
+                HODL - Hold On For Dear Life \n
+                MOONING - Price going up high \n
+                FIAT - Government Issued currency \n
+                WHALE - Someone with a lot of crypto currency \n
+                ATH - All Time High \n
+                BULLISH - Expecting the price will increase \n
+                BEARISH - Expecting the price will decrease \n
+                REKT - Describes when a investor gets blown out of the water by a catastrophic coin collapse \n
+                ERC-20 - The standard for creating smart contracts on Ethereum blockchain \n
+                DUMP - The act of selling cryptocurrency \n
+                PUMP - A rapid raise in a cryptocurrency price  \n
+                TO THE MOON - A cryptocurrency is going all the way up - to the moon, metaphorically speaking  \n
+                BIT - 1 Bit is equal to 1/1,000,000 of a Bitcoin \n
+                SHILL - An individual promoting Alt-coins for their own benefits \n
+                SHITCOIN - Altcoins that are based on faulty technology or have little promise for the future \n
+                ALTCOIN - An alternative coin to bitcoin \n
+                ALT - All-Time low (the lowest a coin has ever been) \n
+                COLD WALLET - An offline wallet \n
+                DEFI - Decentralized Finance \n
+                GAS - A fee that must be paid ro execute Ethereum transactions \n
+                KYC - Know your customer \n
+                NODE - Q computer that validates transactions \n
+                SATOSHI - The pseudonym creator and the smallest unit of a bitcoin \n
+            </br>
+            <br>\n</br>
+
+             <br><b>7 ) How to make money during a bear trend?  \n</b></br>
+            <br>-> Focus on quality coins, many crypto will not make it long term (Majority of all meme coins) \n
+                -> Think long term, crypto isn\'t going anywhere \n
+                -> Do not go all in on the first dip, divide your budget and buy bit by bit in all the dips \n
+                -> Yield farm / lend / stake for gains \n
+            </br>
+            <br>\n</br>
+
+            <br><b>8 ) Some tips on crypto-currencies :  \n</b></br>
+            <br>1. Buy a Paper Notebook. \n
+\n
+2. Use the Paper Notebook to Store All Crypto-Related Account Info and Create Paper Backups. \n
+\n
+3. Scan Your Computer for Malware and Secure it with Cyber Security Software. Also Consider Keystroke Encryption Software. \n
+\n
+4. Require a Password on Your Phone and a Passphrase to Request New SIM Cards. Never Publicly Display Your Phone Number or Cell Phone Provider Online. \n
+\n
+5. Create Unique, Long, Secure Passwords for Each Crypto-Related Account. NEVER Store them on a Device Connected to the Internet. Store them in Your Paper Notebook (with Paper Backups!) \n
+\n
+6. Create a New Email Address with a Unique Handle You have Never Used Before to Use Exclusively with Your Crypto Accounts. \n
+\n
+7. Research, Research, Research to Learn which Wallets and Exchanges to Use when Investing in Cryptocurrency. Quadruple Check ALL URLs and then Bookmark the URLs to Access Safely. Beware of Fake Look-a-Like Websites! \n
+\n
+8. Setup 2FA, or 2 Factor Authentication, for ALL Crypto-Related Accounts. \n
+\n
+9. Learn How to Use Wallets and Exchanges to Complete Transactions Successfully. ALWAYS Use a Small Amount to Ensure Everything is Setup Correctly. Cold Hardware Wallets are the Safest. \n
+\n
+10. Never Reveal Your Identity on Cryptocurrency Public Forums. Keep Your Identity and the Amounts You have invested in Cryptocurrencies Secret. \n
+\n
+11. Write Down Instructions in Your Paper Notebook on How to Access Your Funds in the Event of Your Death. Consider Creating a Will, Trust, or Other Document that Can be Legally Executed to Carry Out Your Wishes! \n
+
+            </br>
+             <br>\n</br>
+        </string>
+    <string name="login_here">Login here</string>
+    <string name="already_registered">Already registered ?</string>
+    <string name="email">Email</string>
+    <string name="create_password"> Create password</string>
+    <string name="name"> Name</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="register"> Register</string>
+    <string name="email_id">Email ID</string>
+    <string name="password">Password</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="don_t_have_an_account_signup">Don\'t have an account ? SignUp</string>
+    <string name="login">Login</string>
+    <string name="not_registered_yet">Not registered yet ?</string>
+    <string name="register_here">Register here</string>
+    <string name="get_started">Get Started</string>
+    <string name="crypto_currency_tracker">Crypto-currency tracker</string>
+    <string name="welcome_fellow_crypto_enthusiasts_this_platform_is_created_for_the_budding_crypto_investors_or_the_ones_who_want_to_learn_about_this_investment_space_which_is_still_very_young_this_app_is_here_to_cater_any_doubts_you_have_and_have_a_platform_for_tracking_the_crypto_curriencies">Welcome fellow crypto enthusiasts. This platform is created for the budding crypto investors or the ones who want to learn about this investment space which is still very young. This app is here to cater any doubts you have and have a platform for tracking the crypto-curriencies.</string>
+    <string name="don_t_have_an_account2">Don\'t have an account ?</string>
+    <string name="faq">FAQ</string>
+    <string name="already_registered2">Already registered ?</string>
+    <string name="already_having_an_account1">Already having an account?</string>
+    <string name="don_t_have_an_account1">Don\'t have an account ?</string>
+    <string name="already_have_an_account2">Already have an account ?</string>
+    <string name="welcome">Welcome</string>
+    <string name="confirm_password">Confirm password</string>
+
+
+</resources>
+
+
+

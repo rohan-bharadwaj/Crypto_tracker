@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842637227894",
+    "project_id": "crypto-currency-tracker-1b4f2",
+    "storage_bucket": "crypto-currency-tracker-1b4f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842637227894:android:cb2fbf102afe295739ac57",
+        "android_client_info": {
+          "package_name": "com.example.crypto_currency_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842637227894-18b0um6n4thsrvpb5p207cbq72q8juk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPFGOPHcwUMyiitNQHU1XiZWhIwPVp2Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842637227894-18b0um6n4thsrvpb5p207cbq72q8juk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
